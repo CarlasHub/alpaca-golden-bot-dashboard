@@ -12,7 +12,7 @@
     "nextEvaluationAt": null
   },
   "account": {
-    "initialUsd": 100,
+    "initialUsd": 1000,
     "equityUsd": null,
     "cashUsd": null,
     "equityGbp": null,
@@ -26,8 +26,8 @@
     }
   },
   "limits": {
-    "riskPerTradeUsd": 2,
-    "dailyLossUsd": 5,
+    "riskPerTradeUsd": 20,
+    "dailyLossUsd": 50,
     "drawdownPct": 15,
     "maxPositions": 3
   },
